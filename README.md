@@ -1,2 +1,5 @@
 # merging-practice
-naeisrtineosttnesitsneiosra
+This
+cake
+is
+bananas
