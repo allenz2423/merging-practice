@@ -1,5 +1,5 @@
 # merging-practice
 This
 cake
-is
+was
 bananas
