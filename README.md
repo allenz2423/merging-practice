@@ -1,5 +1,5 @@
 # merging-practice
 This
-cake
+cupcake
 was
 bananas
